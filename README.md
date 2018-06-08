@@ -17,7 +17,7 @@
 
 
 ## How To: ##
-```
+
 * Compile and run BilImage.java
 
 * File -> Open -> SampleImage -> Aformosat-2test -> Febformosatdatatest -> subfebformosat2
@@ -31,4 +31,4 @@
 * File -> Open -> saved image
 
 * View the singly extracted class at step 3 from the original image
-```
+
