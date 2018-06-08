@@ -14,9 +14,9 @@
 
 **Teammate:**  One (Tushar Malhotra, CSE NITJ)
 
+----
 
-
-## How To: ##
+## Usage ##
 
 * Compile and run BilImage.java
 
@@ -32,3 +32,4 @@
 
 * View the singly extracted class at step 3 from the original image
 
+----
