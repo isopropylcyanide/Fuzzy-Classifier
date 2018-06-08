@@ -16,19 +16,19 @@
 
 
 
-##How To:
+## How To: ##
+```
+* Compile and run BilImage.java
 
-1) Compile and run BilImage.java
+* File -> Open -> SampleImage -> Aformosat-2test -> Febformosatdatatest -> subfebformosat2
 
-2) File -> Open -> SampleImage -> Aformosat-2test -> Febformosatdatatest -> subfebformosat2
+* Classifier -> Fuzzy C-Means -> File -> Open Signature File -> Aformosat-2test -> Clay | Water | Grassland | Forest | Eucalyptus
 
-3) Classifier -> Fuzzy C-Means -> File -> Open Signature File -> Aformosat-2test -> Clay | Water | Grassland | Forest | Eucalyptus
+* Select Modified Maximum Likelihood Classifier 
 
-4) Select Modified Maximum Likelihood Classifier 
+* Classify and save 
 
-5) Classify and save 
+* File -> Open -> saved image
 
-6) File -> Open -> saved image
-
-7) View the singly extracted class at step 3 from the original image
-
+* View the singly extracted class at step 3 from the original image
+```
